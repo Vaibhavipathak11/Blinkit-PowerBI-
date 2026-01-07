@@ -8,6 +8,9 @@ Outlet Size (Small, Medium, High)
 Item Type (Snacks, Dairy, Drinks, etc.)
 
 
+<img width="1580" height="852" alt="Image" src="https://github.com/user-attachments/assets/48a56b2a-e999-475d-88ca-6270cc4370a6" />
+
+
 📌 Insights
 Tier 3 cities and high-size outlets generate maximum revenue
 Regular-fat items sell more than low-fat
